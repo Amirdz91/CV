@@ -11,13 +11,14 @@ Compétences en SISR
  -CSS
  -HTML
  -Python
+ -Php
  
 ###Système
 -Windows
 -Linux
 
 ###Virtualisation 
-
+-Création de machine virtuel avec ou sans ligne de commande à l'aide de VirtualBox.
 
 ##Réseau
   - Cisco Packet Tracer

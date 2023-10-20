@@ -1,36 +1,50 @@
-<h1>CV</h1> 
+# CV
+# Amir Berriouche
+Étudiant en BTS SIO au lycée Turgot
 
-CV de Amir berriouche étudiant au lycée turgot BTS Informatique Cybersécurité
-## Compétences
-Compétences en SISR 
-###Gestion de projet
+Je recherche un stage en informatique, plus particulièrement dans la cybersécurité afin d'enrichir les compétences que j'ai déjà acquises.
 
+### Savoir-être
+- Ponctuel
+- Sérieux
+- Compétences en travail d'équipe
+- Implication
+- Respect de chaque délai
 
-###Développement
- -SQL
- -CSS
- -HTML
- -Python
- -Php
- 
-###Système
--Windows
--Linux
+### Diplômes
+- Brevet des collèges
+- BAC Pro système numérique option RISC (Réseau informatiques et systèmes communicants)
+- Certification PIX
+- BAFA
+  
 
-###Virtualisation 
--Création de machine virtuel avec ou sans ligne de commande à l'aide de VirtualBox.
+### Développement
+- SQL
+- CSS
+- HTML
+- Python
+- PHP
 
-##Réseau
-  - Cisco Packet Tracer
-  - Cisco Networking Essentials
-  - DHCP
-  - DNS
-  - Routage cisco
-## Droit Eco 
-   -RGPD
-    ##
-J'ai des compétences en SISR
-### système
-windows server 
-linux
-## aa 
+### Système 
+- Administration Windows
+- Administration Linux
+
+### Virtualisation
+- VirtualBox
+- VmWare
+
+### Réseau
+- Cisco Packet Tracer
+- Cisco Networking Essentials
+
+### Cybersécurité
+- RGPD
+- Identité Numérique
+
+### Economie Droit Management
+- Les agents économiques
+
+### Langues
+- Français
+- Anglais
+- Espagnol

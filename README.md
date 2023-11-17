@@ -16,7 +16,7 @@ Je recherche un stage en informatique, plus particulièrement dans la cybersécu
 - BAC Pro système numérique option RISC (Réseau informatiques et systèmes communicants)
 - Certification PIX
 - BAFA
-  
+- Certification Cisco
 
 ### Développement
 - SQL
@@ -24,11 +24,15 @@ Je recherche un stage en informatique, plus particulièrement dans la cybersécu
 - HTML
 - Python
 - PHP
-
+- Github
+- Bootstrap
+- Laragon
+- Visual Studio Code
+  
 ### Système 
 - Administration Windows
 - Administration Linux
-
+- -Bash
 ### Virtualisation
 - VirtualBox
 - VmWare
